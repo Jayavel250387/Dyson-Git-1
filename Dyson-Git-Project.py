@@ -30,4 +30,4 @@ result_exponentiate = exponentiate(num1, num2)
 print("Exponentiation result:", result_exponentiate)
 
 def add(x,y):
-    return x+y # Team Member 1 modified or added this function
+    return x+y # Team Member 1 modified or added this functions
