@@ -28,4 +28,3 @@ print("Division result:", result_divide)
 result_exponentiate = exponentiate(num1, num2)
 print("Exponentiation result:", result_exponentiate)
 
-
