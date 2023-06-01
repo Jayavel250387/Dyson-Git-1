@@ -34,3 +34,6 @@ def add(x,y):
 
 def subtract(a,b):
     return a-b
+
+def multiply(w,e):
+    return w*e 
