@@ -32,4 +32,5 @@ print("Exponentiation result:", result_exponentiate)
 def add(x,y):
     return x+y # added new fucntion add by Team Member 1
 
-
+def subtract(a,b):
+    return a-b
