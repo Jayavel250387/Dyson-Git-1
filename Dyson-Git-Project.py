@@ -2,7 +2,6 @@
 This program is used to write a simple operations of math.
 """
 
-# Write here your operation functions:
 
 
 # Usage example:
@@ -29,5 +28,4 @@ print("Division result:", result_divide)
 result_exponentiate = exponentiate(num1, num2)
 print("Exponentiation result:", result_exponentiate)
 
-def add(x,y):
-    return x+y # Team Member 1 modified or added this function
+
