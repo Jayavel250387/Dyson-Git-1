@@ -36,4 +36,8 @@ def subtract(a,b):
     return a-b
 
 def multiply(w,e):
-    return w*e 
+    return w*e
+def divide(a,b):
+    return a/b
+def exponentiate(a,b):
+    return a**b 
